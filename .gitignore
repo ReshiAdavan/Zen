@@ -72,7 +72,6 @@ build
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
-CMakeLists.txt
 changelog.sh
 lib.conf
 Makefile
